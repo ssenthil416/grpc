@@ -1,1 +1,1 @@
-my understanding of GRPC and Go
+my understanding of gRPC and Go
