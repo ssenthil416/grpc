@@ -1,6 +1,7 @@
 Simple Client/Server model communication using protobuf and Go lang and ssl
 
 Need to create a ssl certificate using this below commands
+
 $ openssl genrsa -out cert/server.key 2048
 
 $ openssl req -new -x509 -sha256 -key cert/server.key -out cert/server.crt -days 3650
